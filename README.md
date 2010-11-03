@@ -1,5 +1,5 @@
 <h1> Nicolas Silva </h1>
-
+<img src='http://github.com/nical/resume/raw/master/images/portrait.jpg' border='0' />
 I'm a 4rth year student at the INSA of Lyon (France) IT department.
 
 * French resume [(pdf)](http://github.com/nical/resume/raw/master/fr/NicolasSilva.pdf)
