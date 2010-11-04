@@ -1,7 +1,7 @@
 <h1> Nicolas Silva </h1>
 <img src='http://github.com/nical/resume/raw/master/images/portrait.jpg' border='0' />
 <br/>
-I'm a 4rth year student at the INSA of Lyon (France) IT department.
+I'm a 4th year student at the INSA of Lyon (France) IT department.
 
 * French resume [(pdf)](http://github.com/nical/resume/raw/master/fr/NicolasSilva.pdf)
 * English resume [(pdf)](http://github.com/nical/resume/raw/master/eng/NicolasSilva.pdf)
@@ -14,4 +14,6 @@ Beside this I take drawing lessons, I'm involved in a few associations on my sco
 
 <h2> Other stuff... <h2/>
 
- * (fr) [Un dossier d'histoire de l'art intitulé Un dialogue entre l'art et l'homme traitant de la relation entre l'art et le spectateur](http://github.com/nical/resume/raw/master/misc/dialogueArtHomme.pdf)
+<ul>
+ <li> (fr) Un dossier d'histoire de l'art intitulé [Un dialogue entre l'Art et l'Homme](http://github.com/nical/resume/raw/master/misc/dialogueArtHomme.pdf) traitant de la relation entre l'art et le spectateur. Rien à voir avec l'informatique mais ça fait partie de mes centres d'intérêts </li>
+</ul>
