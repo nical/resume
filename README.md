@@ -15,5 +15,5 @@ Beside this I take drawing lessons, I'm involved in a few associations on my sco
 <h2> Other stuff... <h2/>
 
 <ul>
- <li> (fr) Un dossier d'histoire de l'art intitulé [Un dialogue entre l'Art et l'Homme](http://github.com/nical/resume/raw/master/misc/dialogueArtHomme.pdf) traitant de la relation entre l'art et le spectateur. Rien à voir avec l'informatique mais ça fait partie de mes centres d'intérêts </li>
+ <li> (fr) Un dossier d'histoire de l'art intitulé <a href='http://github.com/nical/resume/raw/master/misc/dialogueArtHomme.pdf' > Un dialogue entre l'Art et l'Homme </a> traitant de la relation entre l'art et le spectateur. Rien à voir avec l'informatique mais ça fait partie de mes centres d'intérêts </li>
 </ul>
