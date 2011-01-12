@@ -3,8 +3,10 @@
 <br/>
 I'm a 4th year student at the INSA of Lyon (France) IT department.
 
-* French resume [(pdf)](http://github.com/nical/resume/raw/master/fr/NicolasSilva.pdf)
-* English resume [(pdf)](http://github.com/nical/resume/raw/master/eng/NicolasSilva.pdf)
+* My English & colorful resume  [(pdf)](http://github.com/nical/resume/raw/master/eng/svg/pdf/NicolasSilva.pdf)
+* Mon joli CV en Français  [(pdf)](http://github.com/nical/resume/raw/master/fr/svg/pdf/NicolasSilva.pdf)
+* Boring, yet more conventional english resume [(pdf)](http://github.com/nical/resume/raw/master/eng/latex/pdf/NicolasSilva.pdf)
+* Mon CV (version plus convtionnelle) [(pdf)](http://github.com/nical/resume/raw/master/fr/latex/pdf/NicolasSilva.pdf)
 
 <h2> My current projects </h2>
 
