@@ -3,7 +3,7 @@
 <br/>
 I'm a 5th year student at the INSA of Lyon (France) IT department. Right now I am also doing an Erasmus exchange at the Technical University of Denmark (DTU).
 
-* My colorful **English** resume  [(pdf)](http://github.com/nical/resume/raw/master/eng/svg/pdf/NicolasSilva.pdf)
+* My colorful **English** resume  [(pdf)](http://github.com/nical/resume/raw/master/eng/svg/pdf/Resume_Nicolas_Silva.pdf)
 
 <h2> My current projects </h2>
 
