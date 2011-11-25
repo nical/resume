@@ -5,6 +5,8 @@ I'm a 5th year student at the INSA of Lyon (France) IT department. Right now I a
 
 * My colorful **English** resume  [(pdf)](http://github.com/nical/resume/raw/master/eng/svg/pdf/Resume_Nicolas_Silva.pdf)
 
+(I don't have an up to date French resume right now)
+
 <h2> My current projects </h2>
 
 My main extra-scholar project is the development of [Kiwi](http://github.com/nical/kiwi/) a free D and C++ library that provides a fast and generic node compositor system.
